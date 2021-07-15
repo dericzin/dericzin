@@ -1,6 +1,6 @@
 # Hi 👋
 
-My name is João Pedro
+My name is Thiago Déric
 
 I'm a Computer Science Student, that has been studying as a Back-end Developer since 2021.  💻
 
