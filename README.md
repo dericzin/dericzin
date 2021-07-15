@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**dericzin/dericzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Pedro
 
-Here are some ideas to get you started:
+I'm a Computer Science Student, that has been studying as a Back-end Developer since 2021.  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always open to new challenges and ready to face changes.
+
+- 📍 From Brasilia - DF
+- 💻 Back-end Developer
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-d%C3%A9ric-rodrigues-barbosa-7195a6217/)](https://www.linkedin.com/in/thiago-d%C3%A9ric-rodrigues-barbosa-7195a6217/) 
+
+
