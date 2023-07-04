@@ -8,6 +8,9 @@ Always open to new challenges and ready to face changes.
 
 - 📍 From Brasilia - DF
 - 💻 Back-end Developer
+- 🧠 Node.js
+- 🧠 Express.js
+- 
 
 Reach me out 👇🏼
 
