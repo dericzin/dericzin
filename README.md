@@ -2,7 +2,7 @@
 
 My name is Thiago Déric
 
-I'm a Computer Science Student, that has been studying as a Back-end Developer since 2021.  💻
+I'm a Computer Science Student, and i'm studying as a Back-end Developer since 2021.  💻
 
 Always open to new challenges and ready to face changes.
 
