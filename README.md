@@ -10,7 +10,11 @@ Always open to new challenges and ready to face changes.
 - 💻 Back-end Developer
 - 🧠 Node.js
 - 🧠 Express.js
-- 
+- 🧠 MongoDB
+- 🧠 MySQL2
+- 🧠 Vue.js
+- 🧠 HTML
+- 🧠 CSS
 
 Reach me out 👇🏼
 
