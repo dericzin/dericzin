@@ -20,7 +20,4 @@ Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-d%C3%A9ric-rodrigues-barbosa-7195a6217/)](https://www.linkedin.com/in/thiago-d%C3%A9ric-rodrigues-barbosa-7195a6217/) 
 
----
-
-### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-dericzin&theme=dark&background=000000)](https://git.io/streak-stats)
 
