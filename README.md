@@ -18,6 +18,8 @@ Always open to new challenges and ready to face changes.
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-d%C3%A9ric-rodrigues-barbosa-7195a6217/)](https://www.linkedin.com/in/thiago-d%C3%A9ric-rodrigues-barbosa-7195a6217/) 
-
-
+<div id="badges">
+  <a href= "https://www.linkedin.com/in/thiago-deric-rodrigues-7195a6217/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>  
